@@ -1,0 +1,7 @@
+{
+    "model": "gpt-4o-mini",
+    "ai_name": "Li",
+    "system_prompt": "You are an exceptional and concise coding assistant.",
+    "style": "tokyo_night"
+}
+
